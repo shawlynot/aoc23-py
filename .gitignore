@@ -1,1 +1,5 @@
 _input
+.venv
+.env
+__pycache__
+.vscode
